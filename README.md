@@ -21,6 +21,9 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" align="center">
    <a/>
       &nbsp
+   <a href="https://www.salesforce.com/br/?ir=1">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30" align="center"/>
+    <a/>
   <a href="https://www.terraform.io/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" align="center"/>
    <a/>
