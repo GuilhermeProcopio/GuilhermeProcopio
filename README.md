@@ -1,3 +1,8 @@
+<div>
+   <p>Ho hoy!!</p>
+   <p>I'm Guilherme, A Software Architect Intern and Java developer.<p/>
+   <p>Now i'm studying more about API's, Microservices, Data engineering (Tools) and DevOps<p/>
+<div/>
 
 <div>
    <a href="https://github.com/GuilhermeProcopio">
