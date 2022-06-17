@@ -12,8 +12,16 @@
 <div/>
   
 <br>
+   
+   
 
  <div>
+    <a href="https://www.mysql.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="30" height="30" align="center" />
+   <a/>
+   <a href="https://spring.io/" >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" align="center"  />
+   <a/>
    <a href="https://www.oracle.com/java/technologies/downloads/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" align="center">
    <a/>
