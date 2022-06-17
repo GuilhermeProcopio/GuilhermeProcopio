@@ -16,6 +16,12 @@
    
 
  <div>
+    <a href="https://git-scm.com/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="30" height="30" align="center" />
+    <a/>
+    <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="30" height="30" align="center" />
+    <a/>
     <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="30" height="30" align="center" />
    <a/>
