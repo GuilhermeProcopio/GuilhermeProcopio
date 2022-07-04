@@ -1,7 +1,18 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, A Java developer.<p/>
-   <p>Now i'm studying more about API's, Microservices, Data engineering (Tools) and DevOps<p/>
+   <p>I'm Guilherme, an Software Engineer working with Solutions Architecture.<p/>
+      <p>Techs: </p>
+      <ul>
+         <li>Java, Javascript, Typescript</li>
+         <li>Salesforce Marketing Cloud, Salesforce Financial Service Cloud, AWS, Azure</li>
+         <li>SQL Server, Data Lake, Data Warehouse, Teradata, DB2</li>
+         <li>Docker, Kubernetes, Terraform</li>
+         <li>ETL, TDCH, HDFS, Mulesoft, API (Restful)</li>
+      </ul>
+      <p>Patterns: <p/>
+      <ul>
+         <li>BFF, MFE, Cloud Native, DDD, Microsserviços e ETL.</li>
+      </ul>
 <div/>
 
 <div>
