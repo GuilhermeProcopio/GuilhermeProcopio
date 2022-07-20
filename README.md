@@ -1,16 +1,17 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Java Developer, DevSecOps Enthusiast.<p/>
+   <p>I'm Guilherme, an Java Developer, and DevSecOps Enthusiast.<p/>
       <p>Techs: </p>
       <ul>
          <li>Java, Javascript, Typescript</li>
+         <li>Spring</li>
          <li>AWS, Azure</li>
          <li>SQL Server, MongoDB, DB2</li>
          <li>Docker, Kubernetes, Terraform</li>
       </ul>
       <p>Patterns: <p/>
       <ul>
-         <li>BFF, MFE, Cloud Native, DDD, Microsservices.</li>
+         <li>BFF, MFE, Cloud Native, DDD, Microsservices, MACH.</li>
       </ul>
 <div/>
 
