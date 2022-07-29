@@ -5,7 +5,7 @@
       <p>Techs: </p>
       <ul>
          <li>Java, Javascript, Typescript</li>
-         <li>Spring</li>
+         <li>Spring Web, Spring Data, Spring MVC, Spring Security</li>
          <li>AWS, Azure</li>
          <li>SQL Server, MongoDB, DB2</li>
          <li>Docker, Kubernetes, Terraform</li>
