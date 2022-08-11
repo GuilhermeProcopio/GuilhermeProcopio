@@ -4,7 +4,7 @@
       <p>Currently, I'm studying Azure Fundamentals to do the AZ-900 certification</p>
       <p>Techs: </p>
       <ul>
-         <li>Java, Javascript, Typescript</li>
+         <li>Java, Javascript</li>
          <li>Spring Web, Spring Data, Spring MVC, Spring Security</li>
          <li>AWS, Azure</li>
          <li>SQL Server, MongoDB, DB2</li>
