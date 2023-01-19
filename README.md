@@ -4,11 +4,11 @@
       <p>Currently, I'm studying the SRE Foundation Certification and Java Performance Tunning</p>
       <p>Techs: </p>
       <ul>
-         <li>Java, Javascript</li>
-         <li>Spring Web, Spring Data, Spring MVC, Spring Security</li>
+         <li>Java, Javascript, Typescript</li>
+         <li>Spring, Angular, Node.js</li>
          <li>AWS, Azure</li>
          <li>SQL Server, MongoDB, DB2</li>
-         <li>Docker, Kubernetes, Terraform</li>
+         <li>Docker, Kubernetes, Terraform, Openshift, Dynatrace, Grafana, Kibana</li>
       </ul>
       <p>Patterns: <p/>
       <ul>
