@@ -1,7 +1,7 @@
 <div>
    <p>Ho hoy!!</p>
    <p>I'm Guilherme, an Java Developer, and DevSecOps Enthusiast.<p/>
-      <p>Currently, I'm studying Azure Fundamentals to do the AZ-900 certification</p>
+      <p>Currently, I'm studying the SRE Foundation Certification and Java Performance Tunning</p>
       <p>Techs: </p>
       <ul>
          <li>Java, Javascript</li>
