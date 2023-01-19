@@ -17,8 +17,9 @@
 <div/>
   
 <br>
+   https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProcopio&layout=compact&theme=dark
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProcopio)](https://github.com/GuilhermeProcopio/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProcopio&layout=compact&theme=dark)](https://github.com/GuilhermeProcopio/github-readme-stats)
 
    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GuilhermeProcopio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GuilhermeProcopio/github-readme-stats#gh-dark-mode-only)
    <br>
