@@ -15,16 +15,11 @@
          <li>BFF, MFE, Cloud Native, DDD, Microsservices, MACH.</li>
       </ul>
 <div/>
-
-<div>
-   <a href="https://github.com/GuilhermeProcopio">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeProcopio&count_private=true&show_icons=true&theme=dark" />
-     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProcopio&layout=compact&theme=dark" />
-   </a>  
-<div/>
   
 <br>
    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProcopio)](https://github.com/GuilhermeProcopio/github-readme-stats)
+
    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GuilhermeProcopio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GuilhermeProcopio/github-readme-stats#gh-dark-mode-only)
    <br>
     
