@@ -14,6 +14,7 @@
   
    <br>
     
+   ### need to add: Openshift, dynatrace, grafana, Kibana, SQL Server, MongoDB.
 
  <div>
     <a href="https://git-scm.com/">
