@@ -1,18 +1,14 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Java Developer, and DevSecOps Enthusiast.<p/>
-      <p>Currently, I'm studying the SRE Foundation Certification and Java Performance Tunning</p>
-      <p>Techs: </p>
+   <p>I'm Guilherme, an Software engineer and DevSecOps Enthusiast.<p/>
+      <p>Currently, I'm studying for the SRE Foundation Certification, and studying this about DevSecOps.</p>
+      <p>Here are the technologies that i work with: </p>
       <ul>
-         <li>Java, Javascript, Typescript</li>
-         <li>Spring, Angular, Node.js</li>
-         <li>AWS, Azure</li>
-         <li>SQL Server, MongoDB, DB2</li>
-         <li>Docker, Kubernetes, Terraform, Openshift, Dynatrace, Grafana, Kibana</li>
-      </ul>
-      <p>Patterns: <p/>
-      <ul>
-         <li>BFF, MFE, Cloud Native, DDD, Microsservices, MACH.</li>
+         <li>Programming languages: Java, Typescript</li>
+         <li>Frameworks: Springboot, Angular, Node.js</li>
+         <li>Cloud Computing: Azure</li>
+         <li>Databases: SQL Server, MongoDB, DB2</li>
+         <li>Infraestructure: Docker, Kubernetes, Terraform, Openshift, Dynatrace, Grafana, Kibana</li>
       </ul>
 <div/>
   
@@ -44,9 +40,6 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" align="center">
    <a/>
       &nbsp
-   <a href="https://www.salesforce.com/br/?ir=1">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30" align="center"/>
-    <a/>
   <a href="https://www.terraform.io/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" align="center"/>
    <a/>
