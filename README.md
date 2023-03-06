@@ -1,7 +1,7 @@
 <div>
    <p>Ho hoy!!</p>
    <p>I'm Guilherme, an Software engineer and DevSecOps Enthusiast.<p/>
-      <p>Currently, I'm studying for the SRE Foundation Certification, and studying this about DevSecOps.</p>
+      <p>Currently, I'm studying for the SRE Foundation Certification, and studying about DevSecOps.</p>
       <p>Here are the technologies that i work with: </p>
       <ul>
          <li>Programming languages: Java, Typescript</li>
