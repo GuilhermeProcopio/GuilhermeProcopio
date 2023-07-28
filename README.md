@@ -1,7 +1,7 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Software engineer and DevSecOps Enthusiast.<p/>
-      <p>Currently, I'm studying for the AZ-104, and studying about Requirements Engineering.</p>
+   <p>I'm Guilherme, an Site Reliability Engineer and DevSecOps Enthusiast.<p/>
+      <p>Currently, I'm studying for the AZ-104, terraform, python and bash scripting.</p>
       <p>Here are the technologies that i work with: </p>
       <ul>
          <li>Programming languages: Java, Typescript</li>
