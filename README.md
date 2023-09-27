@@ -1,6 +1,6 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Site Reliability Engineer and DevOps engineering Enthusiast.<p/>
+   <p>I'm Guilherme, an Site Reliability Engineer and Software Engineering Enthusiast.<p/>
       <p>Currently, I'm studying for the Azure admin and AWS Solutions Architect certification, terraform, python and bash scripting.</p>
       <p>Here are the technologies that i work with: </p>
       <ul>
