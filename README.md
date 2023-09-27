@@ -1,14 +1,16 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Site Reliability Engineer and DevSecOps Enthusiast.<p/>
-      <p>Currently, I'm studying for the AZ-104, terraform, python and bash scripting.</p>
+   <p>I'm Guilherme, an Site Reliability Engineer and DevOps engineering Enthusiast.<p/>
+      <p>Currently, I'm studying for the Azure admin and AWS Solutions Architect certification, terraform, python and bash scripting.</p>
       <p>Here are the technologies that i work with: </p>
       <ul>
-         <li>Programming languages: Java, Typescript</li>
-         <li>Frameworks: Springboot, Angular, Node.js</li>
-         <li>Cloud Computing: Azure</li>
-         <li>Databases: SQL Server, MongoDB, DB2</li>
-         <li>Infraestructure: Docker, Kubernetes, Terraform, Openshift, Dynatrace, Grafana, Kibana</li>
+         <li>Programming languages: Java and Python</li>
+         <li>Cloud Computing: Azure and AWS</li>
+         <li>IaaC: Vagrant, Ansible, Terraform</li>
+         <li>Monitoring: Prometheus, Grafana, Elastic and Dynatrace</li>
+         <li>Containers and Orchestration: Docker, Kubernetes and Openshift</li>
+         <li>Code control and versionising: Jira, Github, Bitbucket, Git</li>
+         <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Chaos monkey and Gremlin</li>
       </ul>
 <div/>
   
