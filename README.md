@@ -10,7 +10,8 @@
          <li>Monitoring: Prometheus, Grafana, Elastic and Dynatrace</li>
          <li>Containers and Orchestration: Docker, Kubernetes and Openshift</li>
          <li>Code control and versionising: Jira, Github, Bitbucket, Git</li>
-         <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Chaos monkey and Gremlin</li>
+         <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Gremlin, Redhat Kraken, Azure Chaos Studio</li>
+         <li>CI/CD tool: Gitlab, Jenkins, ArgoCD, Azure DevOps</li>
       </ul>
 <div/>
   
