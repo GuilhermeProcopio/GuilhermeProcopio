@@ -1,24 +1,20 @@
 <div>
    <p>Ho hoy!!</p>
-   <p>I'm Guilherme, an Site Reliability Engineer and Software Engineering Enthusiast.<p/>
-      <p>Currently, I'm studying for the Azure admin and AWS Solutions Architect certification, terraform, python and bash scripting.</p>
-      <p>Here are the technologies that i work with: </p>
+   <p>I'm Guilherme, a Site Reliability Engineer, Chaos Engineering, and FinOps enthusiast.<p/>
+      <p>Currently, I'm focused on learning how to reduce costs using FinOps concepts, better chaos engineering tests, and improving my terraform, Kubernetes, and GitHub actions</p>
+      <p>Here are the technologies that I Know: </p>
       <ul>
-         <li>Programming languages: Java and Python</li>
-         <li>Cloud Computing: Azure and AWS</li>
-         <li>IaaC: Vagrant, Ansible, Terraform, AWS CloudFormation, ARM Template</li>
-         <li>Monitoring: Prometheus, Grafana, Elastic and Dynatrace</li>
-         <li>Containers and Orchestration: Docker, Kubernetes and Openshift</li>
-         <li>Code control and versionising: Jira, Github, Bitbucket, Git</li>
+         <li>IaC: Vagrant, Ansible, and Terraform</li>
+         <li>Cloud providers: Azure and AWS</li>
+         <li>Containers and Orchestration: Docker, Kubernetes</li>
+         <li>Code control and versioning: Github, Gitlab, and Git</li>
+         <li>Programming languages: GoLang, Python, and Shell Scripting</li>
+         <li>CI/CD tool: Gitlab CI, ArgoCD, Azure DevOps, GitHub Actions</li>
          <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Gremlin, Redhat Kraken, Azure Chaos Studio</li>
-         <li>CI/CD tool: Gitlab, Jenkins, ArgoCD, Azure DevOps</li>
+         <li>Monitoring: Prometheus, Grafana, Elastic,and Dynatrace</li>
       </ul>
 <div/>
-  
    <br>
-    
-
-
  <div>
     <a href="ArgoCD">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="30" height="30" align="center"/>
