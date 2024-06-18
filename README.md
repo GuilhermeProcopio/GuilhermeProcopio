@@ -11,7 +11,7 @@
          <li>Programming languages: GoLang, Python, and Shell Scripting</li>
          <li>CI/CD tool: Gitlab CI, ArgoCD, Azure DevOps, GitHub Actions</li>
          <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Gremlin, Redhat Kraken, Azure Chaos Studio</li>
-         <li>Monitoring: Prometheus, Grafana, Elastic,and Dynatrace</li>
+         <li>Monitoring: Prometheus, Grafana, Elastic, and Dynatrace</li>
       </ul>
 <div/>
    <br>
