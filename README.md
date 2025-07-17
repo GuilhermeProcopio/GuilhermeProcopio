@@ -1,18 +1,9 @@
 <div>
-   <p>Ho hoy!!</p>
-   <p>I'm Guilherme, a Site Reliability Engineer, Chaos Engineering, and FinOps enthusiast.<p/>
-      <p>Currently, I'm focused on learning how to reduce costs using FinOps concepts, better chaos engineering tests, and improving my terraform, Kubernetes, and GitHub actions</p>
-      <p>Here are the technologies that I Know: </p>
-      <ul>
-         <li>IaC: Vagrant, Ansible, and Terraform</li>
-         <li>Cloud providers: Azure and AWS</li>
-         <li>Containers and Orchestration: Docker, Kubernetes</li>
-         <li>Code control and versioning: Github, Gitlab, and Git</li>
-         <li>Programming languages: GoLang, Python, and Shell Scripting</li>
-         <li>CI/CD tool: Gitlab CI, ArgoCD, Azure DevOps, GitHub Actions</li>
-         <li>Chaos engineering: Chaos Mesh, Chaos Toolkit, Gremlin, Redhat Kraken, Azure Chaos Studio</li>
-         <li>Monitoring: Prometheus, Grafana, Elastic, and Dynatrace</li>
-      </ul>
+   <p>Hey there, im Guilherme — a software engineer focused on cloud world, and sometimes other other tech adventures too.<p/>
+      <p>Currently, I'm focused on Platform engineering, Serverless and all those cool buzzworlds (But with real impact). At the of the day Everything it's all about software engineering and solve REAL problems</p>
+      <p>Im building a better world for developers by creating a Platform that enhances the developer experience. Using serverless architecture abstracting infrastructure using Kubernetes, Terraform, FluxCD and other more.</p> 
+      I'm also developing Kubernetes CRDs in Go to extend the platform capabilities, and creating my own tools to deliver automation faster.</p>
+   <p>I often question what I truly know — so I make it a habit to document everything I learn to help both myself and my team grow.</p>
 <div/>
    <br>
  <div>
